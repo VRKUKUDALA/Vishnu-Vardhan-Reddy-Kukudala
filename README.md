@@ -36,26 +36,20 @@ in system analysis, testing, and data-driven problem solving.
 
 ### ☕ Coffee Quality Analysis (Power BI)
 - Identified key drivers of coffee quality using CQI dataset
-- Built interactive dashboards with decomposition trees and correlation analysis
-- Insights: zero defects, optimal moisture, high altitude drive premium quality
-
-🔗 *Repository link here*
+- Built interactive dashboards with Key Influencers, scatter plots,
+  and decomposition trees to analyze multi-variable interactions.
+  
+🔗 https://github.com/VRKUKUDALA/coffee-quality-analysis
 
 ---
 
-### 🎬 MavenMovies Analytics (SQL)
+### 🎬 SQL Analytics Projects (MavenMovies & ClassicModels)
 - Analyzed rental trends, customer behavior, and revenue performance
-- Used CTEs and window functions for advanced analytics
-
-🔗 *Repository link here*
-
----
-
-### 📈 Advanced SQL Analytics
-- Solved real-world analytical problems using window functions
-- Customer spend analysis, moving averages, ranking problems
-
-🔗 *Repository link here*
+  using the MavenMovies database.
+- Demonstrated advanced SQL techniques including CTEs, window functions,
+  moving averages, and spend contribution analysis using ClassicModels.
+  
+🔗 https://github.com/VRKUKUDALA/sql-analytics-projects
 
 ---
 
